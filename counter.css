@@ -1,0 +1,26 @@
+#countlabel{
+    font-size: 10em;
+    text-align: center;
+    display:block;
+}
+#allbtns{
+    text-align: center;
+}
+.buttons{
+    padding:10px  15px;
+    font-size: 1.2em;
+    color: cornsilk;
+    background-color: hsl(240, 79%, 35%);
+    cursor: pointer;
+    transition: background-color 0.25s;
+
+}
+.buttons:hover{
+    background-color: hsl(240, 60%, 66%);
+}
+#reset{
+    background-color: hsl(0, 71%, 49%);
+}
+#reset:hover{
+    background-color:rgb(244, 121, 121) ;
+}
